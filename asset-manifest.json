@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a78f7d1e.css",
+    "main.js": "/static/js/main.716bd32e.js",
+    "static/js/787.0fb9b3d3.chunk.js": "/static/js/787.0fb9b3d3.chunk.js",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.dc9ed683c47c61088446.png",
+    "static/media/instagram_mini_logo.svg": "/static/media/instagram_mini_logo.32dacfc3e449e8b07a51.svg",
+    "static/media/likeit-icon.svg": "/static/media/likeit-icon.2ac38f37b0e9c66b8459.svg",
+    "index.html": "/index.html",
+    "static/media/liked.svg": "/static/media/liked.821fdf52718045143600.svg",
+    "static/media/messsage_icon.svg": "/static/media/messsage_icon.cca7c3891657d722c7c5.svg",
+    "static/media/label.svg": "/static/media/label.5b1e7b5eb2f8076c17ca.svg",
+    "static/media/instagram_comment.svg": "/static/media/instagram_comment.905db0d015e03fdb8306.svg",
+    "static/media/instagram_dot.svg": "/static/media/instagram_dot.2a0d3fc4f3cf3dd88c22.svg",
+    "main.a78f7d1e.css.map": "/static/css/main.a78f7d1e.css.map",
+    "main.716bd32e.js.map": "/static/js/main.716bd32e.js.map",
+    "787.0fb9b3d3.chunk.js.map": "/static/js/787.0fb9b3d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a78f7d1e.css",
+    "static/js/main.716bd32e.js"
+  ]
+}
